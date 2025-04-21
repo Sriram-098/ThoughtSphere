@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-qm0z*yt#+$4g(2x2z!05fhl$d96ju$t4r6s&n5r^ucs^%-d7ro
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://thoughtsphere-xa4h.onrender.com','thoughtsphere-xa4h.onrender.com']
 
 
 # Application definition
